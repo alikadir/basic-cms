@@ -1,0 +1,61 @@
+E:\EmseyYedek\YEDEK\Haber15\AKBclass\obj\Debug\ResolveAssemblyReference.cache
+E:\EmseyYedek\YEDEK\Haber15\AKBclass\bin\Debug\AKBclass.dll
+E:\EmseyYedek\YEDEK\Haber15\AKBclass\bin\Debug\AKBclass.pdb
+E:\EmseyYedek\YEDEK\Haber15\AKBclass\obj\Debug\AKBclass.dll
+E:\EmseyYedek\YEDEK\Haber15\AKBclass\obj\Debug\AKBclass.pdb
+E:\EmseyYedek\YEDEK\SemerkandIK\AKBclass\obj\Debug\ResolveAssemblyReference.cache
+E:\EmseyYedek\YEDEK\SemerkandIK\AKBclass\obj\Debug\AKBclass.dll
+E:\EmseyYedek\YEDEK\SemerkandIK\AKBclass\obj\Debug\AKBclass.pdb
+E:\EmseyYedek\YEDEK\SemerkandIK\AKBclass\bin\Debug\AKBclass.dll
+E:\EmseyYedek\YEDEK\SemerkandIK\AKBclass\bin\Debug\AKBclass.pdb
+C:\Documents and Settings\User\Belgelerim\Visual Studio 2008\Haber15\AKBclass\bin\Debug\AKBclass.dll
+C:\Documents and Settings\User\Belgelerim\Visual Studio 2008\Haber15\AKBclass\bin\Debug\AKBclass.pdb
+C:\Documents and Settings\User\Belgelerim\Visual Studio 2008\Haber15\AKBclass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Belgelerim\Visual Studio 2008\Haber15\AKBclass\obj\Debug\AKBclass.dll
+C:\Documents and Settings\User\Belgelerim\Visual Studio 2008\Haber15\AKBclass\obj\Debug\AKBclass.pdb
+D:\EMSEY\Haber15\AKBclass\bin\Debug\AKBclass.dll
+D:\EMSEY\Haber15\AKBclass\bin\Debug\AKBclass.pdb
+D:\EMSEY\Haber15\AKBclass\obj\Debug\ResolveAssemblyReference.cache
+D:\EMSEY\Haber15\AKBclass\obj\Debug\AKBclass.dll
+D:\EMSEY\Haber15\AKBclass\obj\Debug\AKBclass.pdb
+D:\EMSEY\IK\AKBclass\obj\Debug\ResolveAssemblyReference.cache
+D:\EMSEY\IK\AKBclass\obj\Debug\AKBclass.dll
+D:\EMSEY\IK\AKBclass\bin\Debug\AKBclass.dll
+D:\EMSEY\IK\AKBclass\bin\Debug\AKBclass.pdb
+D:\EMSEY\IK\AKBclass\obj\Debug\AKBclass.pdb
+D:\EMSEY\KariyerTercihi_Yeni\AKBclass\bin\Debug\AKBclass.dll
+D:\EMSEY\KariyerTercihi_Yeni\AKBclass\bin\Debug\AKBclass.pdb
+D:\EMSEY\KariyerTercihi_Yeni\AKBclass\obj\Debug\ResolveAssemblyReference.cache
+D:\EMSEY\KariyerTercihi_Yeni\AKBclass\obj\Debug\AKBclass.dll
+D:\EMSEY\KariyerTercihi_Yeni\AKBclass\obj\Debug\AKBclass.pdb
+D:\EMSEY\AMBAR\Ambar\AKBclass\bin\Debug\AKBclass.dll
+D:\EMSEY\AMBAR\Ambar\AKBclass\bin\Debug\AKBclass.pdb
+D:\EMSEY\AMBAR\Ambar\AKBclass\obj\Debug\ResolveAssemblyReference.cache
+D:\EMSEY\AMBAR\Ambar\AKBclass\obj\Debug\AKBclass.dll
+D:\EMSEY\AMBAR\Ambar\AKBclass\obj\Debug\AKBclass.pdb
+D:\EMSEY\AMBAR\Ambar\AKBclass\bin\Debug\AKBclass.dll.config
+D:\EMSEY\YuceEticaret\AKBclass\bin\Debug\AKBclass.dll.config
+D:\EMSEY\YuceEticaret\AKBclass\bin\Debug\AKBclass.dll
+D:\EMSEY\YuceEticaret\AKBclass\bin\Debug\AKBclass.pdb
+D:\EMSEY\YuceEticaret\AKBclass\obj\Debug\ResolveAssemblyReference.cache
+D:\EMSEY\YuceEticaret\AKBclass\obj\Debug\AKBclass.dll
+D:\EMSEY\YuceEticaret\AKBclass\obj\Debug\AKBclass.pdb
+D:\PROJELERIM\PROJELER\YuceEticaret\AKBclass\bin\Debug\AKBclass.dll.config
+D:\PROJELERIM\PROJELER\YuceEticaret\AKBclass\bin\Debug\AKBclass.dll
+D:\PROJELERIM\PROJELER\YuceEticaret\AKBclass\bin\Debug\AKBclass.pdb
+D:\PROJELERIM\PROJELER\YuceEticaret\AKBclass\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJELERIM\PROJELER\YuceEticaret\AKBclass\obj\Debug\AKBclass.dll
+D:\PROJELERIM\PROJELER\YuceEticaret\AKBclass\obj\Debug\AKBclass.pdb
+D:\PROJELERIM\PROJELER\500luk\AKBclass\bin\Debug\AKBclass.dll.config
+D:\PROJELERIM\PROJELER\500luk\AKBclass\bin\Debug\AKBclass.dll
+D:\PROJELERIM\PROJELER\500luk\AKBclass\bin\Debug\AKBclass.pdb
+D:\PROJELERIM\PROJELER\500luk\AKBclass\obj\Debug\AKBclass.csprojResolveAssemblyReference.cache
+D:\PROJELERIM\PROJELER\500luk\AKBclass\obj\Debug\AKBclass.dll
+D:\PROJELERIM\PROJELER\500luk\AKBclass\obj\Debug\AKBclass.pdb
+E:\PROJELERIM\PROJELER\500luk\AKBclass\bin\Debug\AKBclass.dll.config
+E:\PROJELERIM\PROJELER\500luk\AKBclass\bin\Debug\AKBclass.dll
+E:\PROJELERIM\PROJELER\500luk\AKBclass\bin\Debug\AKBclass.pdb
+E:\PROJELERIM\PROJELER\500luk\AKBclass\obj\Debug\AKBclass.csprojAssemblyReference.cache
+E:\PROJELERIM\PROJELER\500luk\AKBclass\obj\Debug\AKBclass.csproj.CoreCompileInputs.cache
+E:\PROJELERIM\PROJELER\500luk\AKBclass\obj\Debug\AKBclass.dll
+E:\PROJELERIM\PROJELER\500luk\AKBclass\obj\Debug\AKBclass.pdb

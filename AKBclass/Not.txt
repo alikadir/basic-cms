@@ -1,0 +1,19 @@
+﻿---------------
+DLL günlüğü
+---------------
+
+
+2.0.0.1
+---
+alikadir in daha önce SpTetikle de karşılaştığı pCollection ın 2. defa aynı olay içinde tetiklenmesinde 
+ilk tetiklenen fonksiyon tarafından kullanılıyor uyarısı alması sonucu 
+SqlCom.Parameters.Clear(); eklenmesi ve daha sonra erdinç in aynı hatayı SqlIsle() fonksiyonuda alması üzerine
+bütün pCollection alan fonksiyonlarda SqlCom.Paramaters.Clear(); eklenmiş tir
+ve 2.0.0.0 dan 2.0.0.1 e yükseltilmiştir . 09.02.2009 03:11  
+
+2.0.0.2
+---
+SqlCon try catch yapısı içinde komut işlendikten sonra kapatılıyordu  fakat komut işleme anında hata vermesi sonucu 
+alt satıra inmeden try yapısının catch bloğuna düşüyor dolayısıile connection açık kalıyordu buda connection pool hatasına neden oluyordu
+connection.Close() try yapısı içerisinden çıkartıldı ve bi if yapısına bağlanarak connection açık ise close işlemi yaptırıldı 
+vesiton 2.0.0.1 den 2.0.0.2 ye yükseltildi 10.08.2009 01:35
